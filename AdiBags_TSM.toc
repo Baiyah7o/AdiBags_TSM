@@ -1,8 +1,8 @@
-## Interface: 90001
+## Interface: 100005
 
 ## Title: AdiBags - Filter for TSM Groups
 ## Notes: Adds TSM groups to AdiBags.
-## Author: seirl
+## Author: Baiyah7o
 ## Version: 0.7
 
 ## Dependencies: AdiBags TradeSkillMaster
